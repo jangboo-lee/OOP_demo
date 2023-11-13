@@ -9,7 +9,8 @@
 2. Github integration
    1. Pushing/Pulling from VS Codium
    2. Branches from VS Codium
-4. Using the debugger
+4. Environments within VS Codium
+5. Using the debugger
 
 ### OOP
 1. Why OOP
