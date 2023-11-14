@@ -34,6 +34,7 @@ if __name__ == "__main__":
     b = SustDocument("2.txt", "AR")
     c = MornDocument("3.txt", 1234)
     d = SustDocument("4.txt", "CSR")
+    
     b.set_match(c)
 
     docs = [b, c, d]
