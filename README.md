@@ -6,7 +6,7 @@
 1. Setting up VS Codium
   1. Extensions
   2. User settings
-2. Github integration
+2. Github integration (testing within VS Codium)
    1. Pushing/Pulling from VS Codium
    2. Branches from VS Codium
 4. Environments within VS Codium
