@@ -73,10 +73,10 @@ class MornDocument(Document):
         print("I'm only in MornDocuments")
 
     def __str__(self) -> str:
-        """String representation of a SustDocument object
+        """String representation of a MornDocument object
 
         Returns:
-            str: String representation of the SustDocument object
+            str: String representation of the MornDocument object
         """
 
         str_rep = (
